@@ -1,0 +1,40 @@
+.navLinks {
+  text-align: left;
+  padding-left: 10px;
+  padding-top: 20px;
+}
+
+.left-side-nav {
+  height: 100%;
+  width: 200px;
+  position: fixed;
+  top: 0;
+  z-index: 1;
+  overflow-x: hidden;
+  background-color: #00B8F1;
+  border-radius: 0px 15px 0px 0px;
+  color: white;
+}
+
+.profile-image {
+  text-align: center;
+  padding-top: 5px;
+}
+
+.menu-toggle {
+  margin-top: 5px;
+  text-align: right; 
+}
+
+.state-view {
+  border-radius: 5px;
+  background-color: #035899; 
+}
+
+.nav-item {
+  list-style: none;
+}
+
+.nav-item .nav-link {
+color: white;
+} 

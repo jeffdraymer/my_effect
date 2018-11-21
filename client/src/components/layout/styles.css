@@ -1,0 +1,101 @@
+.see-more {
+  text-align: right;
+}
+
+.carousel-button {
+  position: relative;
+  top: 40%;
+}
+
+.carousel-image {
+  width: 70%;
+  height: auto;  
+  text-align: center;
+}
+
+.carousel-text {
+  text-align: center;
+}
+
+.col-centered {
+  float: none;
+  margin: 0 auto;
+  text-align: left;
+}
+
+#details {
+  padding: 5px 0px 5px 0px;
+}
+.user-button {
+  margin-left: 5px;
+  background-color: #00B8F1;
+  color: white;
+  width: auto;
+  border-radius: 8px;
+}
+
+.button-div {
+  padding-top: 40px;
+}
+
+.network-links img {
+margin-left: 5px;
+}
+
+.member-count {
+  color: #00B8F1;
+}
+
+.side-nav-img {
+  width: 80px;
+  height: 80px;
+}
+
+.join-link .btn-sm {
+  width: 40%;
+}
+
+.section {
+  padding: 10px 0px 10px 0px;
+}
+
+.challenges {
+  justify-content: center;
+}
+
+.actions {
+  justify-content: center;
+}
+
+.landing {
+  background-image: url('../../img/bg pic.svg');
+  padding-top: 30px;
+  height: 100px;
+  width:100%;
+  position: relative;
+  border-bottom-left-radius: 100% 200px;
+  border-bottom-right-radius: 100% 200px;
+  background-position: 100px;
+}
+
+.profile-image {
+  font-size: 25px;
+}
+
+.page-header {
+  justify-content: space-between;
+  margin-left: 16.5%;
+
+}
+
+.spacing {
+  width: 10px;
+}
+
+.top-bell {
+  text-align: right;
+ font-size: 25px;
+}
+
+
+

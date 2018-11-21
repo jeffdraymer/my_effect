@@ -1,0 +1,82 @@
+.card-size {
+   width: 10%;
+  height: auto;  
+  text-align: center;
+  float: none;
+  margin: 0 auto;
+  text-align: left;
+}
+
+/*https://github.com/nukeop/react-ui-cards/blob/master/src/Card/styles.scss*/
+.card {
+  position: relative;
+  max-width: 100%;
+  width: 350px;
+  min-width: 350px;
+  min-height: 200px;
+  display: flex;
+  flex-flow: column;
+  border-radius: 0.25rem;
+  margin: 1rem;
+  user-select: none;
+  margin-top: 45px;
+  box-shadow: 1px 1px 1px 1px #D3D3D3;
+}
+
+/*https://github.com/nukeop/react-ui-cards/blob/master/src/UserCard/UserCardAvatar/styles.scss*/
+.card-image {
+  position: absolute;
+  display: flex;
+  flex: 0 0 auto;
+  height: 5.5rem;
+  width: 5.5rem;
+  top: calc(4.5% - 3rem);
+  left: calc(50% - 3rem);  
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-radius: 100%;
+  z-index: 10;
+}
+
+
+.progressbar {
+  height: 5.5rem;
+  width: 6.8rem;
+  top: calc(0% - 3rem);
+  left: calc(47% - 3rem);  
+  position: absolute;
+  
+}
+
+.emblem {
+text-align: right;
+padding: 10px 25px 10px 0px;
+width: 30%;
+  height: auto;  
+}
+
+.caregiving {
+  width: 20%;
+  height: auto;  
+  text-align: center;
+}
+
+.target-counter {
+text-align: left;
+padding: 10px 0px 10px 25px;
+margin-left: 5%;
+}
+
+.card-icon {
+    padding-left: 5px;
+}
+
+.caption {
+    text-align: center;
+    font-size: 20px;
+}
+
+.header {
+  min-height: 68px;
+}
